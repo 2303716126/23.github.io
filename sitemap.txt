@@ -1,3 +1,8 @@
+https://2303716126.github.io/source/index.html
+https://2303716126.github.io/public/index.html
+https://2303716126.github.io/lang/index.html
+https://2303716126.github.io/downloads-code/index.html
+https://2303716126.github.io/archives/index.html
 https://2303716126.github.io/categories/index.html
 https://2303716126.github.io/tags/index.html
 https://2303716126.github.io/2023/05/28/hello-world/
